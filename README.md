@@ -1,4 +1,4 @@
 # demo
 my first try
 <br>
-Author : Toasean Elmah
+Author : Toasean Elmah (CU)
